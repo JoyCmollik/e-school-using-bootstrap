@@ -13,6 +13,10 @@ body {
   color: #ffffff;
 }
 
+.section-title {
+  color: #413960;
+}
+
 /* header */
 header {
   background: #f0fff0;
@@ -32,4 +36,16 @@ header {
 .statistics-card:hover {
   background: #ffffff;
   box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+/* footer */
+footer a,
+p,
+h5 {
+  font-size: 0.875rem;
+}
+
+footer small,
+small > a {
+  font-size: 0.675rem;
 }
