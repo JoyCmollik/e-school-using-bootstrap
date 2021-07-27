@@ -1,0 +1,35 @@
+body {
+  font-family: "Poppins", sans-serif;
+  color: #413960;
+}
+
+/* universal */
+.make-green {
+  color: #21b573;
+}
+
+.btn-green {
+  background: #21b573;
+  color: #ffffff;
+}
+
+/* header */
+header {
+  background: #f0fff0;
+}
+
+/* banner */
+.banner-subheading {
+  color: #fd511a;
+}
+
+/* statistics */
+.statistics-card {
+  background: #f8fffb;
+  transition: all 0.5s ease;
+}
+
+.statistics-card:hover {
+  background: #ffffff;
+  box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
