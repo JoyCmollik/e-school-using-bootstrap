@@ -18,7 +18,8 @@ body {
 }
 
 /* header */
-header {
+header,
+.navbar {
   background: #f0fff0;
 }
 
